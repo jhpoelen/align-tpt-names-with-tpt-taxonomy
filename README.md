@@ -5,7 +5,7 @@ date
 
 Aligning names across collections help to integrate data across collections.
 
-Many tools are available to help collection names and align them.
+Many tools are available to help extract taxonomic names in collections and align them against some existing taxonomy.
 
 This repository is an example of how to align names using Elton, and Nomer. 
 
