@@ -6,6 +6,7 @@
 # 1. an internet connection, 
 # 2. access to terminal on linux, mac, or Windows Subsystem for Linux (WSL) https://en.wikipedia.org//wiki/Windows_Subsystem_for_Linux.  
 # 3. Nomer https://github.com/globalbioticinteractions/nomer installed,
+# 4. Miller mlr https://github.com/johnkerl/miller installed
 # 
 #
 
