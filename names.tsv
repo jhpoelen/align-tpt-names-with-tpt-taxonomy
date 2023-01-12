@@ -1,3 +1,4 @@
+	total			hits			miss	
 	13320	EMTuckerLabUMMZ/ummzi		4998	EMTuckerLabUMMZ/ummzi		8322	EMTuckerLabUMMZ/ummzi
 	22816	globalbioticinteractions/bpbm-ent		3	globalbioticinteractions/bpbm-ent		22813	globalbioticinteractions/bpbm-ent
 	1346	globalbioticinteractions/byu-byuc		291	globalbioticinteractions/byu-byuc		1055	globalbioticinteractions/byu-byuc
@@ -20,7 +21,7 @@
 	165	globalbioticinteractions/usnmentflea		95	globalbioticinteractions/uwsp-para		136	globalbioticinteractions/usnmentflea
 	2730	globalbioticinteractions/usnm-ixodes		11	globalbioticinteractions/wis-ih-wirc		2695	globalbioticinteractions/usnm-ixodes
 	6082	globalbioticinteractions/utah-piper		181	globalbioticinteractions/yale-peabody		3464	globalbioticinteractions/utah-piper
-	650	globalbioticinteractions/uwsp-para			555	globalbioticinteractions/uwsp-para
-	165	globalbioticinteractions/vectorbase			165	globalbioticinteractions/vectorbase
-	609	globalbioticinteractions/wis-ih-wirc			598	globalbioticinteractions/wis-ih-wirc
-	143402	globalbioticinteractions/yale-peabody			143221	globalbioticinteractions/yale-peabody
+	650	globalbioticinteractions/uwsp-para					555	globalbioticinteractions/uwsp-para
+	165	globalbioticinteractions/vectorbase					165	globalbioticinteractions/vectorbase
+	609	globalbioticinteractions/wis-ih-wirc					598	globalbioticinteractions/wis-ih-wirc
+	143402	globalbioticinteractions/yale-peabody					143221	globalbioticinteractions/yale-peabody
