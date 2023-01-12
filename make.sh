@@ -44,11 +44,15 @@ cat names-aligned.tsv | cut -f3 | sort | uniq -c | sort -k 2 > names-total.tsv
 cat names-aligned.tsv | grep -v NONE | cut -f3 | sort | uniq -c | sort -k 2 > names-hits.tsv
 cat names-aligned.tsv | grep  NONE | cut -f3 | sort | uniq -c | sort -k 2 > names-miss.tsv
 
-paste names-total.tsv names-hits.tsv names-miss.tsv > names.tsv
+paste names-total.tsv names-hits.tsv names-miss.tsv\
+ | sed -E 's/[ ]+/ /g' | tr ' ' '\t'\
+ > names.tsv
 
 
 cat names-parsed-and-aligned.tsv | cut -f3 | sort | uniq -c | sort -k 2 > names-parsed-total.tsv
 cat names-parsed-and-aligned.tsv | grep -v NONE | cut -f3 | sort | uniq -c | sort -k 2 > names-parsed-hits.tsv
 cat names-parsed-and-aligned.tsv | grep  NONE | cut -f3 | sort | uniq -c | sort -k 2 > names-parsed-miss.tsv
 
-paste names-parsed-total.tsv names-parsed-hits.tsv names-parsed-miss.tsv > names-parsed.tsv
+paste names-parsed-total.tsv names-parsed-hits.tsv names-parsed-miss.tsv\
+ | sed -E 's/[ ]+/ /g' | tr ' ' '\t'\
+ > names-parsed.tsv
