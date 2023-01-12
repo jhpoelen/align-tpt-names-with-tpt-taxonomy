@@ -4,8 +4,8 @@
 #
 # prerequisites
 # 1. an internet connection, 
-# 2. [Nomer](https://github.com/globalbioticinteractions/nomer) installed,
-# 3. a functional linux, mac, or [Windows Subsystem for Linux (WSL)](https://en.wikipedia.org//wiki/Windows_Subsystem_for_Linux) system.  
+# 2. access to terminal on linux, mac, or Windows Subsystem for Linux (WSL) https://en.wikipedia.org//wiki/Windows_Subsystem_for_Linux.  
+# 3. Nomer https://github.com/globalbioticinteractions/nomer installed,
 # 
 #
 

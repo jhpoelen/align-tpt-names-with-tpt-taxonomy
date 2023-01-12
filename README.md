@@ -24,7 +24,6 @@ alternate workflow (with name scrubbing)
 
 [names-parsed.tsv](./names-parsed.tsv)
 
-
 Some collection have yet to index names.
 
 [collections_vs_collections_with_indexed_names.txt](./collections_vs_collections_with_indexed_names.txt)
