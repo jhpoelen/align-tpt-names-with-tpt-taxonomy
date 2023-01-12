@@ -21,6 +21,7 @@ alternate workflow (with name scrubbing)
 2. Nomer pre-processes names with name scrubbing and parsing  
 3. Nomer aligns names with Terrestrial Parasite Taxonomy
 4. Generated with "total", "hits" and "misses"
+
 [names-parsed.tsv](./names-parsed.tsv)
 
 
